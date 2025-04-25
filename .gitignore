@@ -59,7 +59,7 @@ Editor.log
 # Unity Packages  #
 # =============== #
 Packages/
-*.unitypackage
+# *.unitypackage
 
 # =============== #
 # Plugin Specific #
